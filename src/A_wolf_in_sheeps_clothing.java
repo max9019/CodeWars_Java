@@ -13,7 +13,7 @@ If the wolf is the closest animal to you, return "Pls go away and stop eating my
 Note: there will always be exactly one wolf in the array.
  */
 
-public class A_wold_in_sheeps_clothing {
+public class A_wolf_in_sheeps_clothing {
 
     public static String warnTheSheep(String[] array) {
         for (int i = 0; i < array.length; i++) {
